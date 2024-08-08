@@ -147,6 +147,8 @@ transform: scaleX(1);
     position: absolute;
 }
 .user-image{
+    height:400px;
+    width:400px;
     padding: 2.5rem;
     filter: grayscale(1);
     transition: all 1s;
@@ -666,3 +668,4 @@ footer a:hover{
     height:400px;
     width:400px;
 }
+
